@@ -23,7 +23,7 @@ function func(something){
 	console.log("inside function", numbers);
 }
 
-nemberTest("sonething");
+numberTest("something");
 console.log("outside function", numbers);
 
 //local scope
